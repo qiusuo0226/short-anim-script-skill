@@ -1,0 +1,17 @@
+{
+  "name": "short-anim-script",
+  "displayName": "短视频动画脚本生成器",
+  "version": "0.1.0",
+  "schemaVersion": "0.1.0",
+  "description": "专门生成一分半以上的短视频动画脚本，分镜和动画师拿到就能画。每条都写出场景名称、带时间的镜头描述、旁白、角色对白，以及人物状态、语气和情感。主题由你给，不限定画风。Generates short-video animation scripts longer than 90 seconds for storyboard and animation. Each script includes scene names, timed shots, narration, dialogue, and each character's state, tone, and emotion. Any theme. 触发：你是一个专业的动画编剧、帮我生成动画脚本、短视频动画脚本、写一条一分半以上的动画、出分镜脚本、short animation script、/short-anim-script。",
+  "license": "MIT",
+  "entry": "SKILL.md",
+  "referencesDir": "references",
+  "versionHistory": [
+    {
+      "version": "0.1.0",
+      "date": "2026-09-28",
+      "summary": "初始化开发仓。"
+    }
+  ]
+}
